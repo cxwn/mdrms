@@ -1,2 +1,1 @@
-# mdrms
-Megrez Data Resources Manage System.
+# Megrez Data Resources Manage System Document
